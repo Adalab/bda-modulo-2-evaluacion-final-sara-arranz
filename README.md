@@ -1,11 +1,15 @@
-# MÓDULO 2. Extraer Información de la Web y Bases de Datos
+# MÓDULO 2. 
+
+Extraer Información de la Web y Bases de Datos
 
 # EVALUACION. 
 
 Fecha realización = 12/03/2025
+
 Tiempo invertido = 5 horas
 
 ## Objetivo: 
+
 Conocer y extraer la información solicitada de la Base de Datos "sakila" que simula una tienda de alquiler de películas.
 
 ## Metodología: 
@@ -27,12 +31,9 @@ Conocer y extraer la información solicitada de la Base de Datos "sakila" que si
 
 - Encuentra el nombre y apellido de los actores que no han actuado en ninguna película de la categoría
 "Horror". 
-
 - Encuentra el título de todas las películas que fueron alquiladas por más de 5 días.
-
 - Encuentra la cantidad total de películas en cada clasificación de la tabla film y muestra la
 clasificación junto con el recuento.
-
 - Encuentra la cantidad total de películas alquiladas por categoría y muestra el nombre de la categoría
 junto con el recuento de alquileres.
 
@@ -40,7 +41,7 @@ junto con el recuento de alquileres.
 
 ### Conocimiento técnico de MySQL:
 
-- Manejo de querys sencillas y complejas (subconsultas)
+- Manejo de querys sencillas y complejas (subconsultas).
 
 - Uso de JOIN como cláusula que permite combinar datos de dos o más tablas basadas en una columna común entre ellas. 
 
@@ -50,12 +51,12 @@ junto con el recuento de alquileres.
     - HAVING = Cláusula de filtro para grupos. 
     - ORDER BY = Cláusula de ordenación.
 
-- Lectura y comprensión del Diagrama de Entidad-Relación Extendido (EER)= Herramienta visual que se utiliza para diseñar y representar la estructura de una base de datos
+- Lectura y comprensión del Diagrama de Entidad-Relación Extendido (EER) = Herramienta visual que se utiliza para diseñar y representar la estructura de una base de datos.
 
 ### Soft Skills
 
 - Pensamiento crítico analizando todas las variables disponibles y dando una respuesta efectiva en cada ejercicio.
 - Comunicación efectiva organizando los documentos de entrega de esta evaluación.
-- Autocontrol durante la realización y entrega del ejercicio
+- Autocontrol durante la realización y entrega del ejercicio.
 - Gestión del tiempo generando diferentes tareas de desarrollo. 
 - Cumplimiento de los compromisos inherentes a la realización étca de esta evaluación. 

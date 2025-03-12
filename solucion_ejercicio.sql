@@ -87,8 +87,8 @@ INNER JOIN film AS f
 
 -- 14. Muestra el título de todas las películas que contengan la palabra "dog" o "cat" en su descripción.
 SELECT title 
-FROM film
-	WHERE `description`LIKE '%DOG%' OR `description`LIKE '%CAT%';
+	FROM film
+		WHERE `description`LIKE '%DOG%' OR `description`LIKE '%CAT%';
     
 -- 15. ¿Hay algún actor o actriz que no aparezca en ninguna película en la tabla film_actor?
 SELECT a.first_name, a.last_name
